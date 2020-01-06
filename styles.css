@@ -7,7 +7,7 @@
 
 html {
 	
-	font-family: sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .header {
@@ -37,6 +37,7 @@ html {
 	font-size: 64pt;
 	font-weight: 900;
 	letter-spacing: 1rem;
+	font-style: italic;
 }
 
 .main {
@@ -64,6 +65,7 @@ html {
 	font-weight: 900;
 	letter-spacing: 1rem;
 	text-align: center;
+	font-style: italic;
 }
 
 .horizontal-list {
@@ -110,6 +112,7 @@ html {
 	width: 100%;
 	font-size: 11pt;
 	font-weight: 900;
+	font-style: italic;
 	letter-spacing: 0.25rem;
 	text-align: center;
 }
