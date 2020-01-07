@@ -147,3 +147,12 @@ html {
 	font-style: italic;
 	letter-spacing: 0.5rem;
 }
+
+@media (max-width: 660px) {
+	.header {
+		flex-direction: column;
+	}
+	.header span {
+		font-size: 48pt;
+	}
+}
