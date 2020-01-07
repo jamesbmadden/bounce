@@ -133,6 +133,7 @@ html {
   0 22.3px 17.9px rgba(0, 0, 0, 0.042),
 	0 100px 80px rgba(0, 0, 0, 0.07);
 	align-items: center;
+	z-index: 2;
 }
 
 .navbar img {
