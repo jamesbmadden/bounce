@@ -69,7 +69,7 @@ html {
 	font-style: italic;
 }
 
-.horizontal-list {
+.responsive-list {
 	position: relative;
 	display: flex;
 	flex-direction: row;
@@ -154,5 +154,11 @@ html {
 	}
 	.header span {
 		font-size: 48pt;
+	}
+}
+
+@media (max-width: 400px) {
+	.responsive-list {
+		flex-direction: column;
 	}
 }
